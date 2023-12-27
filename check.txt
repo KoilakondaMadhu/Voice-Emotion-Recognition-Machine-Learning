@@ -1,0 +1,10 @@
+
+
+
+actor in
+RAVDESS_Emotional_speech_audio
+in
+Modelbuilding
+in 
+
+Speech_Emotion_Recognition_Neural_Network_Django_Framework-main
